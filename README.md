@@ -13,6 +13,7 @@
 <img src="https://user-images.githubusercontent.com/67136071/152681431-a205f6ba-178c-4343-9555-ae63f07c20a4.png" width="30" height="30" alt="css"/>
 <img src="https://user-images.githubusercontent.com/67136071/152681498-ffbeff28-5e0a-4bee-8087-bdc9480a3c53.png" width="30" height="30" alt="javascript"/>
 <img src="https://user-images.githubusercontent.com/67136071/152681532-cefd59cc-a8be-4cdc-9b39-9322bd9f7f20.png" width="30" height="30" alt="python"/>
+<img src="https://user-images.githubusercontent.com/67136071/153602785-e99ab59e-5d34-4ef8-83ea-03dea6134573.png" width="30" height="30" alt="golang"/>
 
 </p>
 
