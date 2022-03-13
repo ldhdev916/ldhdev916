@@ -14,8 +14,11 @@
 <img src="https://user-images.githubusercontent.com/67136071/152681498-ffbeff28-5e0a-4bee-8087-bdc9480a3c53.png" width="30" height="30" alt="javascript"/>
 <img src="https://user-images.githubusercontent.com/67136071/152681532-cefd59cc-a8be-4cdc-9b39-9322bd9f7f20.png" width="30" height="30" alt="python"/>
 <img src="https://user-images.githubusercontent.com/67136071/153602785-e99ab59e-5d34-4ef8-83ea-03dea6134573.png" width="30" height="30" alt="golang"/>
-
 </p>
+
+제일 좋아하는 언어: [코틀린](https://kotlinlang.org/)<br>
+[파이썬](https://www.python.org/) 싫어함
+
 
 ### Github Information
 
