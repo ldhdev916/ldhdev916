@@ -19,4 +19,4 @@
 
 ### Github Information
 
-[![info](https://github-readme-stats.vercel.app/api?username=HappyAndJust&&show_icons=true&theme=tokyonight)](https://github.com/HappyAndJust)
+[![info](https://github-readme-stats.vercel.app/api?username=HappyAndJust&&show_icons=true&theme=tokyonight)](https://github.com/dongheon916)
