@@ -20,6 +20,10 @@
 제일 좋아하는 언어: [코틀린](https://kotlinlang.org/)<br>
 [파이썬](https://www.python.org/) 싫어함
 
+### 여담
+교육부 관리자는 영어 9등급이다<br>
+![image](https://user-images.githubusercontent.com/67136071/174435558-ef3e9669-a629-4d74-892f-82a30a70b766.png)
+
 
 ### Github Information
 
