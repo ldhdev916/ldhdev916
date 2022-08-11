@@ -15,6 +15,9 @@
 <img src="https://user-images.githubusercontent.com/67136071/152681532-cefd59cc-a8be-4cdc-9b39-9322bd9f7f20.png" width="30" height="30" alt="python"/>
 <img src="https://user-images.githubusercontent.com/67136071/153602785-e99ab59e-5d34-4ef8-83ea-03dea6134573.png" width="30" height="30" alt="golang"/>
 <img src="https://user-images.githubusercontent.com/67136071/164894503-a69540d4-1cf8-4dd2-b41f-760fd11cc430.png" width="30" height="30" alt="flutter"/>
+<img src="https://user-images.githubusercontent.com/67136071/184128086-6f070895-6888-4029-8148-7e9e5fab8a1b.png" width="30" height="30" alt="c"/>
+<img src="https://user-images.githubusercontent.com/67136071/184128353-2d65b97c-4524-463a-91b1-1b39186b22e5.png" width="30" height="30" alt="c++"/>
+
 </p>
 
 제일 좋아하는 언어: [코틀린](https://kotlinlang.org/)<br>
