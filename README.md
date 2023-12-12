@@ -49,3 +49,5 @@ Here are a few things I've picked up along my learning journey.
 
 ---
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
