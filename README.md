@@ -22,6 +22,7 @@ Here are a few things I've picked up along my learning journey.
 
 * 📱 Mobile development:
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 * 💻 Frontend development:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -35,8 +36,6 @@ Here are a few things I've picked up along my learning journey.
   ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)
 
 * ☁️ Cloud & Hosting:
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-  ![TeamCity](https://img.shields.io/badge/-TeamCity-black?style=flat&logo=teamcity)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 * 🗄 Databases:
