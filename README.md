@@ -48,5 +48,9 @@ Here are a few things I've picked up along my learning journey.
 
 ---
 
+![](./solvedac-dongheon0916-v2.svg)
+
+---
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
